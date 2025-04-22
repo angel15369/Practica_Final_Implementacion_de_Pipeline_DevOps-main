@@ -1,17 +1,19 @@
-# 🛠️ Práctica Final: Diseño e Implementación de Pipeline DevOps
+# 🚀 Práctica Final: Diseño e Implementación de Pipeline DevOps
 
-## 📖 Descripción del Proyecto
-Este proyecto consiste en diseñar e implementar un pipeline DevOps completo para una **aplicación web simple**. Durante este ejercicio, se aplicaron los conceptos y herramientas aprendidos en el curso, incluyendo:
+## 🧾 Descripción del Proyecto
 
-- Control de versiones.
-- Integración y despliegue continuo (CI/CD).
-- Pruebas automatizadas.
-- Contenedores Docker.
-- Monitoreo básico.
+Este proyecto consiste en diseñar e implementar un pipeline DevOps completo para una **aplicación web simple**. Durante este ejercicio, se aplicaron los conceptos y herramientas clave del ciclo DevOps, incluyendo:
+
+- 🗂️ Control de versiones (Git + GitHub)  
+- 🔄 Integración y despliegue continuo (CI/CD) con GitHub Actions  
+- 🧪 Pruebas automatizadas  
+- 🐳 Contenedores Docker  
+- 📈 Monitoreo básico del rendimiento
 
 ---
 
-## 🎯 Objetivo
+
+## Objetivo
 Desarrollar una solución funcional que integre:
 
 ![image](https://github.com/user-attachments/assets/e01e41c9-8e83-4fd1-8999-fe4519139b0c)
@@ -111,4 +113,4 @@ En este proyecto se utilizó **Docker** para gestionar la base de datos, lo que 
 
 ---
 
-**¡Gracias por leer!** 🎉 Si tienes alguna duda, no dudes en abrir un issue en el repositorio.
+
